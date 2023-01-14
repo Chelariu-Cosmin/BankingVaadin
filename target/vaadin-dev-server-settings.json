@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "D:/Programare2/BankingVaadin/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/Programare2/BankingVaadin/target/flow-frontend",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\Programare2\\BankingVaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

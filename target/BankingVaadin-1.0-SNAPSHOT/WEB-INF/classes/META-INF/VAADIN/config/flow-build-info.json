@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "D:\\Programare2\\BankingVaadin",
+  "node.version": "v16.18.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "D:\\Programare2\\BankingVaadin\\target\\frontend",
+  "frontendFolder": "D:\\Programare2\\BankingVaadin\\frontend",
+  "connect.javaSourceFolder": "D:\\Programare2\\BankingVaadin\\src\\main\\java",
+  "javaResourceFolder": "D:\\Programare2\\BankingVaadin\\src\\main\\resources",
+  "connect.applicationProperties": "D:\\Programare2\\BankingVaadin\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "D:\\Programare2\\BankingVaadin\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "D:\\Programare2\\BankingVaadin\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

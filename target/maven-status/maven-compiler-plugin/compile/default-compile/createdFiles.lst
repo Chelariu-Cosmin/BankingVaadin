@@ -1,0 +1,4 @@
+org\example\AppShell.class
+org\example\MainView.class
+org\example\clienti\FormClientView.class
+org\example\clienti\NavigableGridClientiView.class
